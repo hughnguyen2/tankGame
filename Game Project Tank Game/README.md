@@ -1,10 +1,8 @@
 # csc413-tankgame
 
 
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   Hugh Nguyen    |
-|  Student Email      |   hnguyen37@mail.sfsu.edu   |
+## Tank Game Description
+Tank game is a mini game in which two tanks try to shoot each other down. The game map is made up of many breakable and unbreakable walls in which the tanks try to nagivate through to defeat one another.
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
