@@ -1,10 +1,7 @@
 # csc413-tankgame
 
-
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   Hugh Nguyen    |
-|  Student Email      |   hnguyen37@mail.sfsu.edu   |
+##Tank Game Information
+Tanke game is a mini game in which competitors navigate a tank and try to shoot down walls and take down the other tanks. Each tank has a health bar for each life it has and each tank has 3 lives. This game implements breakable and unbreakable walls as well with 2 moving tanks.
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
